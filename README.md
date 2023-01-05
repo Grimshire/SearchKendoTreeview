@@ -14,4 +14,4 @@ You will need to create a model that inherits from SearchKendoTreeview and can b
 
 Finally, an example for how to get the model back:
 
-![Example for how to return a tree in an MVC controller method](https://github.com/Grimshire/SearchKendoTreeview/blob/main/SearchKendoTreeview.png)
+![Example for how to return a tree in an MVC controller method](https://github.com/Grimshire/SearchKendoTreeview/blob/main/SearchKendoTreeview2.png)
