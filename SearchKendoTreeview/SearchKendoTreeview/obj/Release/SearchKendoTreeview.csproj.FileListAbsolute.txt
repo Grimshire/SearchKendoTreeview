@@ -1,0 +1,6 @@
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\bin\Release\SearchKendoTreeview.dll
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\bin\Release\SearchKendoTreeview.pdb
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\obj\Release\SearchKendoTreeview.csproj.AssemblyReference.cache
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\obj\Release\SearchKendoTreeview.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\obj\Release\SearchKendoTreeview.dll
+C:\Users\Adam\Source\repos\SearchKendoTreeview\SearchKendoTreeview\obj\Release\SearchKendoTreeview.pdb
